@@ -1,3 +1,5 @@
+#! THIS REPO IS NO LONGER BEING MAINTAINED !
+
 # DialogFlowVideos
 Git Repo for DialogFlow Tutorial Videos @ https://www.youtube.com/c/RobertAparri
 
